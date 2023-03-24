@@ -16,7 +16,7 @@ while (i < 10)
 	while (j <= 14)
 		{
 		if (j >= 10)
-		_putchar((j / 10) + '0');	
+		_putchar((j / 10) + '0');
 		_putchar((j % 10) + '0');
 		j++;
 		}
@@ -25,5 +25,5 @@ while (i < 10)
 	i++;
 	}
 
-_putchar(10);
+/*_putchar(10);*/
 }
