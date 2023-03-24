@@ -16,7 +16,7 @@ if (n <= 0)
 	_putchar(10);
 else
 
-	for (line = 1; line <= n; line++)
+	for (line = 1; line <= n; ++line)
 	{
 		_putchar(95);
 	}
