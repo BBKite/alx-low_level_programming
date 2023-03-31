@@ -8,3 +8,5 @@ File 4: Reverses the content of an array of integers
 File 5: Changes all lowercase letters of a string to uppercase
 File 6: Capitlises all words of a string
 File 7: Encodes a string into 1337 Leet format
+File 8: Encodes a string using rot13 encryption
+File 9: Prints an integer
