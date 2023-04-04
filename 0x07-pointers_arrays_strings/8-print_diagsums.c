@@ -10,7 +10,7 @@
 
 void print_diagsums(int *a, int size)
 {
-unsigned int sum_left = 0, sum_right = 0;
+int sum_left = 0, sum_right = 0;
 int l = 0;
 
 /*For right sloping diagonal*/
@@ -21,5 +21,5 @@ while (l < size)
 	l++;
 	}
 
-printf("%u, %u\n", sum_right, sum_left);
+printf("%d, %d\n", sum_right, sum_left);
 }
